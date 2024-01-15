@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeiroProjetoEmCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f87de1e04ac78572545e7ca58d8b2ae0101ea81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb635d9c2cb2ab99dadcd0f0cd13cc4ebad11b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeiroProjetoEmCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeiroProjetoEmCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
