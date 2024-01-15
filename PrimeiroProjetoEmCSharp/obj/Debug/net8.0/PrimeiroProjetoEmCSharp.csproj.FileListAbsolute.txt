@@ -1,0 +1,14 @@
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net8.0\PrimeiroProjetoEmCSharp.exe
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net8.0\PrimeiroProjetoEmCSharp.deps.json
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net8.0\PrimeiroProjetoEmCSharp.runtimeconfig.json
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net8.0\PrimeiroProjetoEmCSharp.dll
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net8.0\PrimeiroProjetoEmCSharp.pdb
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.AssemblyInfoInputs.cache
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.AssemblyInfo.cs
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.dll
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\refint\PrimeiroProjetoEmCSharp.dll
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.pdb
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.genruntimeconfig.cache
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\ref\PrimeiroProjetoEmCSharp.dll
