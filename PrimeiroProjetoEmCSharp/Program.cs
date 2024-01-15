@@ -36,7 +36,7 @@ namespace PrimeiroProjetoEmCSharp {
             } else {
                 if (areaX < areaY) {
                     Console.WriteLine("Maior área : Y");
-                }else {
+                }else if (areaX == areaY){
                     Console.WriteLine("Não há diferença entre maior área!");
                 }
             }
