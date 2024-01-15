@@ -12,3 +12,4 @@ C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCS
 C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.pdb
 C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.genruntimeconfig.cache
 C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\ref\PrimeiroProjetoEmCSharp.dll
+C:\Users\herorickygames\source\repos\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net8.0\PrimeiroProjetoEmCSharp.sourcelink.json
